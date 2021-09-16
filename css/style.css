@@ -99,7 +99,7 @@ p {
   h1 {
     font-size: 60px;
   }
-  img {
+  .photo-home {
     display: none;
   }
   .button-link {
